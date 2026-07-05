@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "AI-Green-Retrosynthesis-Framework"
+message: "If you use this software, please cite the associated manuscript."
+type: software
+
+authors:
+  - family-names: "Alizadeh Raef"
+    given-names: "Nima"
+
+repository-code: "https://github.com/raefalizadehnima-droid/AI-Green-Retrosynthesis-Framework"
+
+license: MIT
+
+keywords:
+  - retrosynthesis
+  - artificial intelligence
+  - green chemistry
+  - quantum chemistry
+  - sustainability
